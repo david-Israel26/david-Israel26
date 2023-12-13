@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/18kW9gL/veritas.png" height="250"/>
+  <img src="https://i.ibb.co/18kW9gL/veritas.png" height="150"/>
 </p>
 <hr>
 <h1 align="center">Oh Hi, I'm David Israel<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
