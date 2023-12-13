@@ -15,7 +15,7 @@
 <img align="right" width=200px alt="toki" src="https://media.tenor.com/EnhflrUR1_4AAAAM/toki-asuma-toki.gif" />
 <p>About me!</p><br>
 ✔ I want to become a better developer!<br>
-✔ I want to develop a web page (gallry type) with most of the Blue Archive Cutscenes!<br>
+✔ I want to develop a web page (gallery type) with most of the Blue Archive Cutscenes!<br>
 ✔ I’m currently learning **CSS** & **JS** (thanks freecodecamp)<br>
 ✔ In my free time I like to play videogames, learn new things (or even relearn)<br>
 and code some stuff that I have in mind<br>
