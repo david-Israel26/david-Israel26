@@ -18,7 +18,7 @@
 ✔ I want to develop a web page (gallry type) with most of the Blue Archive Cutscenes!<br>
 ✔ I’m currently learning **CSS** & **JS** (thanks freecodecamp)<br>
 ✔ In my free time I like to play videogames, learn new things (or even relearn)<br>
-and upload personal projects into GitHub<br>
+and code some stuff that I have in mind<br>
 <br><br>
 <hr>
 
